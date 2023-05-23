@@ -1,0 +1,14 @@
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.exe
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.deps.json
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.dll
+C:\Users\Олина\Documents\GitHub\OMg\One\One\bin\Debug\netcoreapp3.1\One.pdb
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.csproj.AssemblyReference.cache
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.csproj.CoreCompileInputs.cache
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.dll
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.pdb
+C:\Users\Олина\Documents\GitHub\OMg\One\One\obj\Debug\netcoreapp3.1\One.genruntimeconfig.cache

@@ -17,18 +17,28 @@ namespace One
                 char oper;
 
                 Console.WriteLine("Введите первое число:");
-                a = Convert.ToDouble(Console.ReadLine());
+                
+               if(!double.TryParse(Console.ReadLine(), out a))
+                { 
+                    Console.WriteLine("Неверное число в поле ввода");
+                    return;
+                }
 
                 Console.WriteLine("Введите оператор:");
                 oper = Convert.ToChar(Console.ReadLine());
 
                 Console.WriteLine("Введите второе число:");
-                b = Convert.ToDouble(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out b))
+                {
+                    Console.WriteLine("Неверное число в поле ввода");
+                    return;
+                }
 
                 if (oper =='/' & b==0)
                 {
                     Console.WriteLine("На ноль делить нельзя");
                 }
+
                 else if (oper == '+')
                 {
                     total = a + b;
