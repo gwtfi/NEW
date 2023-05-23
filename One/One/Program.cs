@@ -54,8 +54,7 @@ namespace One
                 {
                     Console.WriteLine("Неизвестный оператор.");
                 }
-                Console.WriteLine("Вы хотите продолжить работу с калькулятором? (д/н)");
-                again = Convert.ToChar(Console.ReadLine());
+               
             }
         }
     }
