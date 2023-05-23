@@ -10,8 +10,6 @@ namespace One
     {
         static void Main(string[] args)
         {
-            char again = 'д';
-            while (again == 'д')
             {
                 double a;
                 double b;
@@ -27,7 +25,11 @@ namespace One
                 Console.WriteLine("Введите второе число:");
                 b = Convert.ToDouble(Console.ReadLine());
 
-                if (oper == '+')
+                if (oper =='/' & b==0)
+                {
+                    Console.WriteLine("На ноль делить нельзя");
+                }
+                else if (oper == '+')
                 {
                     total = a + b;
                     Console.WriteLine("Cумма " + a + " и " + b + " равна " + total + ".");

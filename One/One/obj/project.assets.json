@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Олина\\Documents\\GitHub\\NEW\\One\\One\\One.csproj",
+      "projectUniqueName": "C:\\Users\\Олина\\Documents\\GitHub\\OMg\\One\\One\\One.csproj",
       "projectName": "One",
-      "projectPath": "C:\\Users\\Олина\\Documents\\GitHub\\NEW\\One\\One\\One.csproj",
+      "projectPath": "C:\\Users\\Олина\\Documents\\GitHub\\OMg\\One\\One\\One.csproj",
       "packagesPath": "C:\\Users\\Олина\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Олина\\Documents\\GitHub\\NEW\\One\\One\\obj\\",
+      "outputPath": "C:\\Users\\Олина\\Documents\\GitHub\\OMg\\One\\One\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
