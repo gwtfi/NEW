@@ -17,13 +17,19 @@ namespace One
                 char oper;
 
                 Console.WriteLine("Введите первое число:");
-                a = Convert.ToDouble(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out a))
+                {
+                    Console.WriteLine("Введено неправильное значение");
+                }
 
                 Console.WriteLine("Введите оператор:");
                 oper = Convert.ToChar(Console.ReadLine());
 
                 Console.WriteLine("Введите второе число:");
-                b = Convert.ToDouble(Console.ReadLine());
+                if (!double.TryParse(Console.ReadLine(), out b))
+                {
+                    Console.WriteLine("Введено неправильное значение");
+                }
 
                 if (oper =='/' & b==0)
                 {
